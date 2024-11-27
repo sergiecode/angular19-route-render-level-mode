@@ -1,0 +1,2 @@
+# angular19-route-render-level-mode
+NOVEDADES EN LOS MODOS DE RENDERIZADO A NIVEL DE RUTA EN ANGULAR 19
